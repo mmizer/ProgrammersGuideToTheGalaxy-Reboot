@@ -1,6 +1,6 @@
 ### Update 11/22/2020
 
-This is a hard fork (imported/mirror) of the original repository, found ![here](https://github.com/stuartaroth/programmersguidetothegalaxy) with original credit to ![@stuartaroth](https://github.com/stuartaroth). It's been left unmaintained for quite a few years now. We intend to actively update with modern exmaples, additional examples by use case and scenario, and perhaps expanding into DevOps topics, Cloud equivalencies, and security platforms. We'll be touching up the website with a more modern, appealing look and feel soon. 
+This is a hard fork (imported/mirror) of the original repository, found ![here](https://github.com/stuartaroth/programmersguidetothegalaxy) with original credit to ![@stuartaroth](https://github.com/stuartaroth). It's been left unmaintained for quite a few years now. We intend to actively update with modern exmaples, additional examples by use case and scenario, and perhaps expand into DevOps topics, Cloud equivalencies, and security platforms. We'll be touching up the website with a more modern, appealing look and feel soon. 
 
 This was a great resource a few years back while mentoring some developers less experienced in the particular stack our company was using at the time, as well as great resource for more experienced devs looking to cut through all the "boilerplate" documentation and get moving quickly in an unfamilar environment.
 
